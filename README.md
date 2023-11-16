@@ -13,3 +13,4 @@ You'll also learn how to:
 - Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 - Implement sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+- Deploy your website to vercel or any other platform and make it live for the world to see!
