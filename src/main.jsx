@@ -9,5 +9,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
-
-// Path: src/components/canvas/Computers.jsx
